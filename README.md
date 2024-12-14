@@ -26,4 +26,4 @@ Tools and Technologies Used:
 
 Power BI for visualization and reporting.
 Excel or CSV for raw data handling.
-Data cleaning and transformation techniques to prepare the dataset for analysis
+Data cleaning and transformation techniques to prepare the dataset for analysis.
